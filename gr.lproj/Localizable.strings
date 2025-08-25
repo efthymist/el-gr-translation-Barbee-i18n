@@ -1359,7 +1359,7 @@
 "Auto sync with iCloud" = "Auto sync with iCloud";
 
 /* No comment provided by engineer. */
-"Rename" = "Rename";
+"Rename" = "Μετονομασία";
 
 /* No comment provided by engineer. */
 "Matches icon state" = "Matches icon state";
@@ -1368,16 +1368,16 @@
 "Does not match icon state" = "Does not match icon state";
 
 /* No comment provided by engineer. */
-"Battery state" = "Battery state";
+"Battery state" = "Κατάσταση Μπαταρίας";
 
 /* No comment provided by engineer. */
-"Power source" = "Power source";
+"Power source" = "Πηγή ενέργειας";
 
 /* No comment provided by engineer. */
-"⚡️Any Power Source" = "⚡️Any Power Source";
+"⚡️Any Power Source" = "⚡️Οποιαδήποτε πηγή ενέργειας";
 
 /* No comment provided by engineer. */
-"🔋 Battery" = "🔋 Battery";
+"🔋 Battery" = "🔋 Μπαταρία";
 
 /* No comment provided by engineer. */
-"🔌 Power Adapter" = "🔌 Power Adapter";
+"🔌 Power Adapter" = "🔌 Φορτιστής";
